@@ -1,0 +1,135 @@
+.navbar-brand {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.nav-link {
+  font-family: 'Acme', sans-serif;
+}
+
+.navbar-nav  li {
+  padding-left:30px;
+    padding-right:30px;
+}
+
+
+#navbarTogglerDemo01 .navbar-brand {
+  color: #FF5E18;
+}
+
+#navbarTogglerDemo01 .nav-link {
+  color: #white;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #FF5E18;
+  color: #fff;
+}
+
+
+.tag1 {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.tag2 {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+   padding: 7% 15%;
+}
+
+
+
+.container2 {
+  background-image: url("https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/20993058_2000005853615837_4275527967636043322_n.jpg?_nc_cat=106&_nc_ht=scontent-lga3-1.xx&oh=f692798c0d2ab56a5b82316784867981&oe=5CE16DDE");
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  padding: 0 20px;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  background-color: white;
+}
+
+#features i {
+  color: #d32323;
+}
+
+
+
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+#foot {
+  background-color: #black;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+#foot h3 {
+  padding: auto;
+  line-height: 1.05;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: 600;
+}
+
+
+
+#press {
+  background-color: #FF5E18;
+  text-align: center;
+  padding-bottom: 3%;
+
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+
+
+p {
+  color: #f4f3f3;
+  font-family: "Acme";
+
+}
+
+
+#testimonial-carousel {
+    font-family: "Righteous";
+}
+
+
+#content h1 {
+  text-align: center;
+  padding-top: 2%;
+  color: green;
+  font-family: 'Gloria Hallelujah', cursive, bold;
+}
+
+
+#footer {
+  font-family: "Righteous";
+}
